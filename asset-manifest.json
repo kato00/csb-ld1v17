@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "https://kato00.github.io/csb-ld1v17/static/js/main.4ec8f26a.chunk.js",
-    "main.js.map": "https://kato00.github.io/csb-ld1v17/static/js/main.4ec8f26a.chunk.js.map",
+    "main.js": "https://kato00.github.io/csb-ld1v17/static/js/main.8efaa833.chunk.js",
+    "main.js.map": "https://kato00.github.io/csb-ld1v17/static/js/main.8efaa833.chunk.js.map",
     "runtime-main.js": "https://kato00.github.io/csb-ld1v17/static/js/runtime-main.e158286a.js",
     "runtime-main.js.map": "https://kato00.github.io/csb-ld1v17/static/js/runtime-main.e158286a.js.map",
-    "static/js/2.0b805676.chunk.js": "https://kato00.github.io/csb-ld1v17/static/js/2.0b805676.chunk.js",
-    "static/js/2.0b805676.chunk.js.map": "https://kato00.github.io/csb-ld1v17/static/js/2.0b805676.chunk.js.map",
+    "static/js/2.6d3ed797.chunk.js": "https://kato00.github.io/csb-ld1v17/static/js/2.6d3ed797.chunk.js",
+    "static/js/2.6d3ed797.chunk.js.map": "https://kato00.github.io/csb-ld1v17/static/js/2.6d3ed797.chunk.js.map",
     "index.html": "https://kato00.github.io/csb-ld1v17/index.html",
-    "static/js/2.0b805676.chunk.js.LICENSE.txt": "https://kato00.github.io/csb-ld1v17/static/js/2.0b805676.chunk.js.LICENSE.txt"
+    "static/js/2.6d3ed797.chunk.js.LICENSE.txt": "https://kato00.github.io/csb-ld1v17/static/js/2.6d3ed797.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e158286a.js",
-    "static/js/2.0b805676.chunk.js",
-    "static/js/main.4ec8f26a.chunk.js"
+    "static/js/2.6d3ed797.chunk.js",
+    "static/js/main.8efaa833.chunk.js"
   ]
 }
