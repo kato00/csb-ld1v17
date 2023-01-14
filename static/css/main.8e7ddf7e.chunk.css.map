@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAEA,IACE,SAAU,CACV,iBAAkB,CAClB,SACF,CAIA,SACE,uCACF","file":"main.8e7ddf7e.chunk.css","sourcesContent":[".App {\n}\n.Pc {\n  zoom: 130%;\n  position: absolute;\n  right: 25%;\n}\n#Kan {\n  background-color: rgba(125, 162, 243, 0.411);\n}\n#GR {\n  background-color: rgba(125, 162, 243, 0.411);\n}\n"]}
