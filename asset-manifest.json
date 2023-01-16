@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://kato00.github.io/csb-ld1v17/static/css/main.8113c5c2.chunk.css",
-    "main.js": "https://kato00.github.io/csb-ld1v17/static/js/main.1d62f01a.chunk.js",
-    "main.js.map": "https://kato00.github.io/csb-ld1v17/static/js/main.1d62f01a.chunk.js.map",
+    "main.css": "https://kato00.github.io/csb-ld1v17/static/css/main.56106a63.chunk.css",
+    "main.js": "https://kato00.github.io/csb-ld1v17/static/js/main.51881fc7.chunk.js",
+    "main.js.map": "https://kato00.github.io/csb-ld1v17/static/js/main.51881fc7.chunk.js.map",
     "runtime-main.js": "https://kato00.github.io/csb-ld1v17/static/js/runtime-main.e158286a.js",
     "runtime-main.js.map": "https://kato00.github.io/csb-ld1v17/static/js/runtime-main.e158286a.js.map",
-    "static/js/2.406274df.chunk.js": "https://kato00.github.io/csb-ld1v17/static/js/2.406274df.chunk.js",
-    "static/js/2.406274df.chunk.js.map": "https://kato00.github.io/csb-ld1v17/static/js/2.406274df.chunk.js.map",
+    "static/js/2.b3dda464.chunk.js": "https://kato00.github.io/csb-ld1v17/static/js/2.b3dda464.chunk.js",
+    "static/js/2.b3dda464.chunk.js.map": "https://kato00.github.io/csb-ld1v17/static/js/2.b3dda464.chunk.js.map",
     "index.html": "https://kato00.github.io/csb-ld1v17/index.html",
-    "static/css/main.8113c5c2.chunk.css.map": "https://kato00.github.io/csb-ld1v17/static/css/main.8113c5c2.chunk.css.map",
-    "static/js/2.406274df.chunk.js.LICENSE.txt": "https://kato00.github.io/csb-ld1v17/static/js/2.406274df.chunk.js.LICENSE.txt"
+    "static/css/main.56106a63.chunk.css.map": "https://kato00.github.io/csb-ld1v17/static/css/main.56106a63.chunk.css.map",
+    "static/js/2.b3dda464.chunk.js.LICENSE.txt": "https://kato00.github.io/csb-ld1v17/static/js/2.b3dda464.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e158286a.js",
-    "static/js/2.406274df.chunk.js",
-    "static/css/main.8113c5c2.chunk.css",
-    "static/js/main.1d62f01a.chunk.js"
+    "static/js/2.b3dda464.chunk.js",
+    "static/css/main.56106a63.chunk.css",
+    "static/js/main.51881fc7.chunk.js"
   ]
 }
